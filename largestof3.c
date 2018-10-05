@@ -2,6 +2,7 @@
 void main()
 {
 int a,b,c;
+PRINTF("ENTER THREE NUMBERS\n")
 scanf("%d %d %d",&a,&b,&c);
 if(a>b&&a>c)
 printf("%d",a);
